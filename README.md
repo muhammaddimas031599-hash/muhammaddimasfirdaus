@@ -46,11 +46,11 @@
 
 ### 📊 GitHub Stats
 
-> Ganti `USERNAME` dengan username GitHub-mu
 
-[![Dimas' GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Dimas' GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammaddimas031599-hash&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddimas031599-hash&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
